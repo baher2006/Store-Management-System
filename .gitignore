@@ -29,3 +29,5 @@ bin/
 .DS_Store
 
 products.txt
+.idea/
+*.iml
